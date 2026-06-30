@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Schwabilismus
-- 👀 I’m interested in basically everything. 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on stuff.
-- 📫 How to reach me: Fabian@akk.org
+- 👀 I’m interested in eyeballs.  
+- 🌱 I’m currently Vibecoding Python
+- I’m not looking to collaborate on stuff. Sorry.
+- 📫 How to reach me: Don't.
 
 <!---
 Schwabilismus/Schwabilismus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
